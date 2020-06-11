@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unable_to_connect_reader">Unable to connect</string>
+    <string name="reader_connected">Reader Connected</string>
+    <string name="reader_disconnected">Reader Disconnected</string>
+    <string name="reader_not_connected">Reader Not Connected</string>
+</resources>
